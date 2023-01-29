@@ -1,0 +1,15 @@
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ControlFactura\obj\Debug\net6.0\ControlFactura.csproj.AssemblyReference.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ControlFactura\obj\Debug\net6.0\ControlFactura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ControlFactura\obj\Debug\net6.0\ControlFactura.AssemblyInfoInputs.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ControlFactura\obj\Debug\net6.0\ControlFactura.AssemblyInfo.cs
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ControlFactura\obj\Debug\net6.0\ControlFactura.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ControlFactura\bin\Debug\net6.0\ControlFactura.exe
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ControlFactura\bin\Debug\net6.0\ControlFactura.deps.json
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ControlFactura\bin\Debug\net6.0\ControlFactura.runtimeconfig.json
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ControlFactura\bin\Debug\net6.0\ControlFactura.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ControlFactura\bin\Debug\net6.0\ControlFactura.pdb
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ControlFactura\obj\Debug\net6.0\ControlFactura.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ControlFactura\obj\Debug\net6.0\refint\ControlFactura.dll
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ControlFactura\obj\Debug\net6.0\ControlFactura.pdb
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ControlFactura\obj\Debug\net6.0\ControlFactura.genruntimeconfig.cache
+C:\Users\Abel\Desktop\POO\Practicas en C#\Practicas de Tecnicas\ControlFactura\obj\Debug\net6.0\ref\ControlFactura.dll
